@@ -16,12 +16,10 @@ DALL-E Clone - Web Application
 
 DALL-E Clone is a web application inspired by the original DALL-E project. DALL-E, developed by OpenAI, is an artificial intelligence model that generates images from textual descriptions. This clone project aims to provide a simplified version of DALL-E's functionality, allowing users to generate unique images based on their text inputs.
 
-The project leverages the power of deep learning and computer vision techniques to generate novel images that correspond to specific textual prompts. Users can explore the creative capabilities of the model by inputting various text descriptions and witnessing the corresponding visual outputs.
-
 ## Features
 
 - Generate images from text prompts
-- Explore the artistic capabilities of the model
+- Explore the artistic capabilities of the DALL-E model.
 - Responsive web design for easy usage on various devices
 
 ## Getting Started
@@ -47,7 +45,6 @@ The DALL-E Clone project relies on the following dependencies:
 
 - Node.js
 - Express.js
-- TensorFlow.js
 - React.js
 - Other project-specific dependencies (automatically installed during setup)
 
@@ -55,7 +52,7 @@ Ensure that you have the latest versions of these dependencies installed on your
 
 ## Contributing
 
-We welcome contributions to the DALL-E Clone project! If you would like to contribute, please follow these guidelines:
+I welcome contributions to the DALL-E Clone project! If you would like to contribute, please follow these guidelines:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix: `git checkout -b my-feature`
@@ -64,6 +61,3 @@ We welcome contributions to the DALL-E Clone project! If you would like to contr
 5. Push to the branch: `git push origin my-feature`
 6. Submit a pull request detailing your changes.
 
-## License
-
-The DALL-E Clone project is open-source and released under the [MIT License](LICENSE). You are free to modify, distribute, and use the codebase in accordance with the terms of the license.
